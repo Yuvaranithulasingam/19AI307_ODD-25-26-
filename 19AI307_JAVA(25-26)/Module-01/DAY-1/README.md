@@ -4,15 +4,7 @@
 
 Lovely is learning java basics, can you teach her the different types of datatypes in java? Write a program that uses all datatypes and print them all.
 Input Format:
-byte - 24
-short - 11000
-int - 1,34,500
-long - 24,23,10,34
-float - 24.20
-double - 1,30,000.80
-boolean - true/false
-char - 'u'
-String -"Heyyy, Lovely, Let's learn java!"
+byte - 24, short - 11000, int - 1,34,500, long - 24,23,10,34, float - 24.20, double - 1,30,000.80, boolean - true/false, char - 'u', String -"Heyyy, Lovely, Let's learn java!".
 
 ## AIM:
 
@@ -20,18 +12,18 @@ To understand and demonstrate the basic data types in Java by declaring variable
 
 ## ALGORITHM :
 
-1.	Start the program.
-2. Declare variables for all primitive datatypes:
-     -> byte
-     -> short
-     -> int
-     -> long
-     -> float
-     -> double
-     -> boolean
-     -> char
-3. Declare a variable for the non-primitive datatype:
-     -> String
+1. Start the program.
+2. Declare variables for all primitive datatypes:</br>
+     -> byte</br>
+     -> short</br>
+     -> int</br>
+     -> long</br>
+     -> float</br>
+     -> double</br>
+     -> boolean</br>
+     -> char</br>
+3. Declare a variable for the non-primitive datatype:</br>
+     -> String</br>
 4. Assign appropriate values to each of the declared variables.
 5. Print all the variable values using System.out.println() statements.
 6. End the program.
@@ -79,3 +71,4 @@ public class AllDataTypes
 ## RESULT:
 
 Thus, the Java program was successfully written and executed to demonstrate the use of all primitive and non-primitive data types. The values of each data type were displayed correctly, and the objective of understanding Java data types, variables, and basic operations was achieved.
+
