@@ -25,14 +25,8 @@ To write a Java program that synchronizes the deposit() method in a BankAccount 
 5. Display the final balance.
 6. Stop the program.
 
-## PROGRAM:
- ```
-/*
-Program to implement a Synchronization concept using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
+#### Developed by: YUVARANI T
+#### RegisterNumber:  212222110057
 
 ## SOURCE CODE:
 ```
@@ -88,3 +82,4 @@ public class BankDepositSimulation
 
 The program executed successfully. Multiple threads deposited amounts into the
 shared BankAccount object, and synchronization ensured correct updates.
+
